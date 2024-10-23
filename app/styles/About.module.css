@@ -1,0 +1,42 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .abttitle {
+    color: #2c3e50;
+    text-align: center; 
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start;
+  }
+  
+  .textbox {
+    flex: 1;
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border: 1px solid #ddd;  
+    border-radius: 8px;       
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    margin-right: 20px; 
+  }
+  
+  .sub {
+    color: #2980b9;
+    margin-top: 20px; 
+  }
+  
+  .list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
