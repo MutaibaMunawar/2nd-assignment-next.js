@@ -22,7 +22,7 @@ const Home = () => {
      <div className="flex-1 p-6 md:p-8 bg-white rounded-lg shadow-lg ml-4">
   <h1 className="text-2xl md:text-3xl font-bold text-gray-800">Welcome to the Fitness Club!</h1>
   <p className="mt-4 text-gray-600 text-sm md:text-base">
-    "Welcome to FitNewss Club, where your fitness journey begins—empowering you to achieve your health goals through personalized training and a supportive community."
+    &apos;Welcome to FitNewss Club&apos; where your fitness journey begins—empowering you to achieve your health goals through personalized training and a supportive community.&apos;
   </p>
   <Link 
     href="/join" 
